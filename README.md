@@ -1,2 +1,2 @@
-# matplotlib_notes
-This repo contains both real life application and basics of matplotlib chart.
+# python_notes
+This repo contains python notes including different libraries.
